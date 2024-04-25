@@ -1,0 +1,1 @@
+This is stopwatch app, also known as a timer app, is a software application designed for time tracking and measurement.
